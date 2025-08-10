@@ -1,0 +1,5 @@
+/* static/style.css */
+body { font-family: Arial, sans-serif; background:#f5f5f5; margin:20px; text-align:center; }
+form { display:inline-block; background:#fff; padding:18px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); }
+input, textarea { width:320px; margin:8px 0; padding:8px; }
+button { background:#007BFF; color:#fff; padding:10px 16px; border:none; cursor:pointer; }
